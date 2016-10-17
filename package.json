@@ -1,0 +1,24 @@
+{
+  "name": "focus-test-express",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangzhenguo3352/focus-test-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangzhenguo3352/focus-test-express/issues"
+  },
+  "homepage": "https://github.com/Zhangzhenguo3352/focus-test-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
